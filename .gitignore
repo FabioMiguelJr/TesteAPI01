@@ -1,1 +1,21 @@
-/.alpackages
+# Cache do compilador AL e arquivos temporários do VS Code
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+.alpackages/
+*.app
+.alcache/
+rad.json
+
+# Arquivos de log e relatórios de diagnóstico
+*.log
+*.jsonld
+
+# Pastas de build e pacotes locais (caso use scripts adicionais)
+node_modules/
+bin/
+obj/
+
+# Arquivos temporários do sistema operacional
+Thumbs.db
+.DS_Store

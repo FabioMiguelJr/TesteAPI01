@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TESTEAPI">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3006956664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usuário Externo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 2092051866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cidade</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Address_City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 2248146516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rua</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Address_Street - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 1718541641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Complemento/Apto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Address_Suite - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 1783980993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CEP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Address_Zipcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 4133384889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nome da Empresa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Company_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nome</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 646935216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telefone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 2994142618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usuário</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006956664 - Field 2459809053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ExternalUser - Field Website - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3966016208 - Method 3829692618 - NamedType 2720410936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A Resposta em texto é: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ImportUsersIntegrator - Method FetchAndProcessUsers - NamedType Text01</note>
+        </trans-unit>
+        <trans-unit id="Page 796530212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ficha do Usuário Externo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 796530212 - Control 1116050679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Empresa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserCard - Control Empresa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 796530212 - Control 1436969659 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endereço</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserCard - Control Endereco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 796530212 - Control 2859910759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geral</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserCard - Control Geral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 796530212 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID do usuário obtido via API.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserCard - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212213154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usuários Externos (API)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4212213154 - Action 3095096348 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Baixa os usuários da JSONPlaceholder e atualiza esta tabela.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserList - Action SincronizarAcao - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212213154 - Action 3095096348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sincronizar API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExternalUserList - Action SincronizarAcao - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1450319156 - Action 908813626 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Acesso rápido às minhas páginas customizadas.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyBusinessManagerExt - Action MeuNovoMenu - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1450319156 - Action 908813626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Meu Menu Customizado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyBusinessManagerExt - Action MeuNovoMenu - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1450319156 - Action 1690172990 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Abre a página de gerenciamento de integrações.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyBusinessManagerExt - Action MinhaPagina1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1450319156 - Action 1690172990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Minhas Linhas de Integração</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyBusinessManagerExt - Action MinhaPagina1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3856710066 - Action 3544160302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1023993454">
+          <source>Dispara o envio de dados de teste para a API JSONPlaceholder.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension UsingAPI - Action TestarIntegracaoPost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3856710066 - Action 3544160302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1023993454">
+          <source>Testar POST API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension UsingAPI - Action TestarIntegracaoPost - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
